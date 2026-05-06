@@ -1768,6 +1768,7 @@ body[data-theme="dark"] .project-card-highlight {
 
 @media (max-width: 640px) {
   .site-header {
+    flex-wrap: wrap;
     gap: 10px;
     padding-inline: 14px;
   }
@@ -1797,37 +1798,21 @@ body[data-theme="dark"] .project-card-highlight {
     padding: 0;
   }
 
+  .nav-dock {
+    order: 3;
+    width: 100%;
+    justify-content: center;
+    overflow-x: auto;
+    border-radius: var(--radius);
+  }
+
   .nav-links {
-    display: none;
+    display: flex;
+    flex: 0 0 auto;
   }
 
   .mobile-action-bar {
-    position: fixed;
-    right: 14px;
-    bottom: 14px;
-    left: 14px;
-    z-index: 60;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    overflow: hidden;
-    border: 1px solid var(--line);
-    border-radius: var(--radius);
-    background: rgba(255, 255, 255, 0.94);
-    box-shadow: var(--shadow);
-    backdrop-filter: blur(12px);
-  }
-
-  .mobile-action-bar a {
-    display: grid;
-    min-height: 46px;
-    place-items: center;
-    color: var(--blue);
-    font-size: 14px;
-    font-weight: 900;
-  }
-
-  body {
-    padding-bottom: 78px;
+    display: none;
   }
 }
 
