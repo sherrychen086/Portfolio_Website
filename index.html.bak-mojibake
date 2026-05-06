@@ -1,0 +1,448 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>陈晓宇 | AI 产品经理作品集</title>
+    <meta
+      name="description"
+      content="陈晓宇的 AI 产品经理作品集，聚焦产品交付、AI 产品能力、数据决策、跨团队推进与产品案例复盘。"
+    >
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="回到首页">
+        <span class="brand-mark">XY</span>
+        <span>
+          <strong>陈晓宇</strong>
+          <small>AI Product Manager Candidate</small>
+        </span>
+      </a>
+
+      <nav class="nav-links" aria-label="主导航">
+        <a href="#education">Education</a>
+        <a href="#awards">Awards</a>
+        <a href="#experience">Experience</a>
+        <a href="#case-studies">Case Studies</a>
+        <a href="#pm-fit">Why Me</a>
+        <a href="#skills">Skills</a>
+        <a href="#contact">Contact</a>
+      </nav>
+
+      <a class="header-cta" href="assets/chen-xiaoyu-resume.pdf" download>Download Resume</a>
+    </header>
+
+    <main id="top">
+      <section class="hero section-shell">
+        <div class="hero-copy">
+          <p class="eyebrow">AI Product Manager Portfolio</p>
+          <h1>陈晓宇｜AI 产品经理候选人</h1>
+          <p class="hero-lede">
+            熟悉产品全生命周期管理，具备技术研发与项目管理的实战经验，拥有丰富的跨团队协作能力。
+            对 AI 产品抱有极大热情，了解 LLM 基础原理、Prompt Engineering、RAG 等 AI 相关概念和技术，拥有 AI 项目实战经验。
+          </p>
+
+          <div class="hero-actions" aria-label="鏍稿績鎿嶄綔">
+            <a class="btn primary" href="#case-studies">鏌ョ湅 AI 浜у搧妗堜緥</a>
+            <a class="btn secondary" href="#pm-fit">30 绉掑垽鏂尮閰嶅害</a>
+            <a class="btn ghost" href="assets/chen-xiaoyu-resume.pdf" download>涓嬭浇姝ｅ紡绠€鍘?/a>
+          </div>
+
+        </div>
+
+        <aside class="interviewer-panel" aria-label="闈㈣瘯瀹樺揩鎹峰叆鍙?>
+          <div class="panel-header">
+            <span>For Interviewers</span>
+            <strong>鎸変綘鐨勮瘎浼颁换鍔¤繘鍏?/strong>
+          </div>
+          <a href="#pm-fit">
+            <span>30 绉掑垽鏂尮閰嶅害</span>
+            <small>5 涓‖璇佹嵁璇存槑涓轰粈涔堥€傚悎 AI 浜у搧缁忕悊</small>
+          </a>
+          <a href="#case-studies">
+            <span>鏌ョ湅 AI 浜у搧涓绘渚?/span>
+            <small>FitMind AI锛氱敤鎴烽棶棰樸€佷骇鍝佸喅绛栥€侀獙璇佺粨鏋?/small>
+          </a>
+          <a href="#delivery-case">
+            <span>鏌ョ湅鐪熷疄浜や粯缁忓巻</span>
+            <small>鏅鸿兘搴ц埍璇煶闇€姹傜鐞嗕笌 SOP 鎺ㄨ繘</small>
+          </a>
+          <a href="assets/chen-xiaoyu-resume.pdf" download>
+            <span>涓嬭浇姝ｅ紡绠€鍘?/span>
+            <small>PDF 鏂囦欢锛岄€傚悎杞彂鍜屽綊妗?/small>
+          </a>
+        </aside>
+      </section>
+
+      <section id="education" class="education section-shell">
+        <div class="section-heading wide">
+          <p class="eyebrow">Education</p>
+          <h2>鏁欒偛鑳屾櫙</h2>
+        </div>
+
+        <div class="education-grid">
+          <article class="education-card">
+            <img class="education-logo" src="assets/ntu-logo.png" alt="鍗楁磱鐞嗗伐澶у鏍″窘">
+            <div class="education-body">
+              <div class="education-meta">
+                <span>Master</span>
+                <span>2025.08 - 2026.12</span>
+              </div>
+              <h3>鍗楁磱鐞嗗伐澶у 路 WKWSCI</h3>
+              <p class="degree">淇℃伅绯荤粺纭曞＋ 路 GPA 4.5/5.0</p>
+              <div class="course-tags" aria-label="纭曞＋鐩稿叧璇剧▼">
+                <span>鐢熸垚寮?AI 搴旂敤寮€鍙?/span>
+                <span>浜烘満鏅鸿兘浜や簰</span>
+                <span>浜烘満浜や簰</span>
+                <span>鏁版嵁鎸栨帢</span>
+                <span>鏁版嵁鍙鍖?/span>
+                <span>淇℃伅绯荤粺瀹夊叏</span>
+                <span>淇℃伅妫€绱笌鍒嗘瀽</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="education-card">
+            <img class="education-logo" src="assets/bit-logo.png" alt="鍖椾含鐞嗗伐澶у鏍″窘">
+            <div class="education-body">
+              <div class="education-meta">
+                <span>Bachelor</span>
+                <span>2019.09 - 2023.06</span>
+              </div>
+              <h3>鍖椾含鐞嗗伐澶у 路 璁＄畻鏈哄闄?/h3>
+              <p class="degree">鏁版嵁绉戝涓庡ぇ鏁版嵁鎶€鏈湰绉?路 GPA 3.4/4.0</p>
+              <div class="course-tags" aria-label="鏈鐩稿叧璇剧▼">
+                <span>Python璇█绋嬪簭璁捐</span>
+                <span>闈㈠悜瀵硅薄鐨勭▼搴忚璁?C++)</span>
+                <span>鏁版嵁浠撳簱涓庢暟鎹寲鎺?/span>
+                <span>澶ф暟鎹鐞嗘妧鏈?/span>
+                <span>杞欢娴嬭瘯涓庤川閲忎繚璇?/span>
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="awards" class="awards section-shell">
+        <div class="section-heading wide">
+          <p class="eyebrow">Awards</p>
+          <h2>鑾峰缁忓巻</h2>
+        </div>
+
+        <div class="award-list">
+          <article class="award-item">
+            <span>2020</span>
+            <strong>浼樼瀛︾敓濂栦簩绛夊</strong>
+            <p>鏈鐢熷瀛﹂噾</p>
+          </article>
+          <article class="award-item">
+            <span>2020</span>
+            <strong>瀛︿範杩涙濂?/strong>
+            <p>鏈鐢熷瀛﹂噾</p>
+          </article>
+          <article class="award-item">
+            <span>2021</span>
+            <strong>浼樼瀛︾敓涓夌瓑濂?/strong>
+            <p>鏈鐢熷瀛﹂噾</p>
+          </article>
+          <article class="award-item highlight">
+            <span>2023</span>
+            <strong>璁＄畻鏈哄闄紭绉€姣曚笟璁捐</strong>
+            <p>鍩轰簬 RFID 绯荤粺鐨勭墿鍝佸畾浣嶆柟娉曠爺绌?/p>
+          </article>
+          <article class="award-item highlight">
+            <span>2023</span>
+            <strong>TP-Link 娑堣垂浜у搧鐮斿彂澶勫勾搴︿紭绉€鏂颁汉</strong>
+            <p>浜у搧娴嬭瘯宸ョ▼甯堟湡闂磋幏寰?/p>
+          </article>
+        </div>
+      </section>
+
+      <section id="experience" class="experience section-shell">
+        <div class="section-heading wide">
+          <p class="eyebrow">Experience</p>
+          <h2>宸ヤ綔缁忓巻</h2>
+        </div>
+
+        <div class="timeline">
+          <article class="timeline-item align-left">
+            <div class="timeline-content">
+              <h3>涓€姹?澶т紬姹借溅鏈夐檺鍏徃鎽╂柉鏅鸿仈 路 椤圭洰缁忕悊</h3>
+              <p class="experience-date">2024.12 - 2025.06</p>
+              <div class="experience-points">
+                <p>
+                  <strong>鏅鸿兘搴ц埍椤圭洰浜や粯涓?SOP 绠＄悊锛?/strong>
+                  璐熻矗 FAW-VM 鏅鸿兘搴ц埍杞欢浜у搧鐨勫畬鏁寸敓鍛藉懆鏈熺鐞嗕笌浜や粯锛岀疮璁″弬涓?6 涓溅鍨嬮」鐩鐞嗗伐浣滐紝鐙珛涓诲濂ヨ开 Aestrix 椤圭洰浠庣珛椤瑰埌鎸夋湡 SOP銆?
+                </p>
+                <p>
+                  <strong>AI 璇煶鍔熻兘杩唬涓庝氦浠橈細</strong>
+                  璐熻矗濂ヨ开杞﹀瀷澶氳疆璇煶瀵硅瘽鍔熻兘浠庨渶姹傚埌涓婄嚎鐨勪氦浠樻帹杩涳紝涓诲椤圭洰绔嬮」銆侀渶姹傝瘎瀹°€佺増鏈鍒掍笌鎴愭湰浜у嚭璇勪及銆傜鐞嗚椤圭洰 50 浣欎釜闇€姹傦紝鎸夋湡楠屾敹鐜囪揪 85%锛岀‘淇濋」鐩鏈熶氦浠樸€?
+                </p>
+                <p>
+                  <strong>璺ㄥ洟闃熷崗浣滀笌渚涘簲鍟嗙鐞嗭細</strong>
+                  鍥寸粫浜у搧闇€姹傚榻愯闊炽€佸湴鍥俱€佷簯鏈嶅姟銆佹暟鎹瓑 6 瀹?Tier1 鍙婄畻娉曚緵搴斿晢锛屽崗璋冧骇鍝併€佺爺鍙戙€佹祴璇曘€佽繍钀ャ€佽溅鏈虹瓑 8 涓唴澶栭儴鍥㈤槦銆傛帹鍔ㄥ鏂瑰湪闇€姹傜悊瑙ｃ€佷氦浠樿竟鐣屼笌浼樺厛绾х瓑鏂归潰涔嬮棿杈炬垚涓€鑷达紝淇濋殰浜у搧鐨勭ǔ瀹氬彲浜や粯鎬с€?
+                </p>
+                <p>
+                  <strong>浜у搧宸ヤ綔涓庢枃妗ｄ骇鍑猴細</strong>
+                  娣卞害鍙備笌浜у搧渚у伐浣滐紝涓诲闇€姹傜鐞嗕笌浼樺厛绾ф帓鏈熴€佽緭鍑虹増鏈?Roadmap锛岀粍缁囧苟鍙備笌闇€姹傝瘎瀹★紝绠＄悊椤圭洰鍛ㄦ湡鍐呯殑闇€姹傚彉鏇达紝缁勭粐浜у搧鍥㈤槦瀹屾垚 PRD 瀹ｈ疮銆侀渶姹傛緞娓呬笌鍘熷瀷鍥捐瘎瀹＄瓑宸ヤ綔銆?
+                </p>
+              </div>
+            </div>
+            <figure class="experience-image-slot filled">
+              <img src="assets/fawvw-cockpit.png" alt="涓€姹藉ぇ浼楁櫤鑳藉骇鑸遍」鐩満鏅浘">
+            </figure>
+          </article>
+
+          <article class="timeline-item align-right">
+            <figure class="experience-image-slot filled">
+              <img src="assets/tplink-products.png" alt="TP-Link Deco 浜у搧鍦烘櫙鍥?>
+            </figure>
+            <div class="timeline-content">
+              <h3>TP-Link 鑱旀床鍥介檯鎶€鏈湁闄愬叕鍙?路 浜у搧娴嬭瘯宸ョ▼甯?/h3>
+              <p class="experience-date">2023.07 - 2024.03</p>
+              <div class="experience-points">
+                <p>
+                  <strong>鑽ｈ獕璇勪环锛?/strong>
+                  璇曠敤鏈熻€冩牳鎺掑悕鍏ㄩ儴闂ㄧ涓€锛堝叡 45 浜猴級锛岃幏璇勨€滄秷璐逛骇鍝佺爺鍙戝 2023 骞村害浼樼鏂颁汉鈥濊崳瑾夈€?
+                </p>
+                <p>
+                  <strong>浜у搧鍏ㄦ祦绋嬪弬涓庝笌闇€姹傚畬鍠勶細</strong>
+                  娣卞害鍙備笌 Deco 绯诲垪璺敱鍣ㄤ粠闇€姹傝瘎瀹°€佸紑鍙戙€佹祴璇曞埌浜у搧浜や粯鐨勫畬鏁存祦绋嬨€備粠鐢ㄦ埛涓庢妧鏈袱涓搴﹀弽鍚戞帹婕旈渶姹傜殑鍚堢悊鎬э紝璇嗗埆 PRD 涓湭瑕嗙洊鐨勮竟鐣屾儏鍐典笌娼滃湪浣撻獙闂锛屾帹鍔ㄩ渶姹傚畬鍠勶紝瀹炵幇娴嬭瘯宸︾Щ銆?
+                </p>
+                <p>
+                  <strong>绔炲搧鍒嗘瀽涓庡喅绛栨敮鎾戯細</strong>
+                  涓诲 Deco 涓?ASUS銆丄mazon 绛夌珵鍝佺殑瀹為獙瀹ゅ姣旀祴璇曪紝杈撳嚭缁撴瀯鍖栫珵鍝佸垎鏋愭姤鍛婏紝鍖呮嫭瀹為獙鏁版嵁銆佸樊璺濈粨璁恒€佸師鍥犲強鏀硅繘璺緞锛屾帹鍔ㄥ鎴风闄愰€熷拰甯﹀鎺у埗绛夊涓姛鑳藉強鍙傛暟鐨勫喅绛栥€?
+                </p>
+                <p>
+                  <strong>甯傚満鍙嶉涓庝骇鍝佹敼杩涳細</strong>
+                  璺熻繘 Deco 绯诲垪浜у搧鐨勫唴閮?Beta 璇曠敤鍙嶉涓庢捣澶栧競鍦虹敤鎴峰弽棣堬紝涓诲闂澶嶇幇銆佹祴璇曟暟鎹噰闆嗕笌鏍瑰洜瀹氫綅锛屽崗鍚岀爺鍙戝洟闃熸帹鍔ㄤ慨澶嶏紝骞跺皢鏆撮湶鐨勯棶棰樿ˉ鍏呰嚦鍚庣画鐗堟湰鐨勬祴璇曡鐩栬寖鍥达紝褰㈡垚浜у搧鏀硅繘闂幆銆?
+                </p>
+                <p>
+                  <strong>娴嬭瘯浜や粯涓庤嚜鍔ㄥ寲浜у嚭锛?/strong>
+                  绱璐熻矗 Deco 绯诲垪鐨?25 涓」鐩紝杈撳嚭 2 涓畬鏁存ā鍧楁祴璇曡璁℃柟妗堝強閰嶅鐨?300 浣欎釜娴嬭瘯鐢ㄤ緥鍜?30 浣欎釜鑷姩鍖栨祴璇曡剼鏈紝澶嶇敤浜庡涓」鐩殑鍥炲綊楠岃瘉涓庢€ц兘娴嬭瘯銆傜疮璁℃墽琛屾祴璇曠敤渚?4000 浣欎釜锛屾彁鎶ユ湁鏁?bug 150 涓紙涓珮椋庨櫓闂 70 涓級锛屽娆″湪浜у搧鍙戝竷鍓嶆垚鍔熸嫤鎴叧閿闄╅」銆?
+                </p>
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+
+
+      <section id="case-studies" class="case-studies section-shell">
+        <div class="section-heading wide">
+          <p class="eyebrow">Case Studies</p>
+          <h2>绮鹃€夐」鐩?/h2>
+        </div>
+
+        <div class="case-groups" role="tablist" aria-label="椤圭洰妗堜緥鍒楄〃">
+          <section class="case-group" aria-labelledby="personal-projects-title">
+            <div class="case-group-heading">
+              <h3 id="personal-projects-title">涓汉椤圭洰</h3>
+              <span>Personal Projects</span>
+            </div>
+            <div class="project-card-grid six" aria-label="涓汉椤圭洰鍗＄墖鍗犱綅">
+              <article class="project-card">
+                <span class="project-type">GenAI Application</span>
+                <h4>FitMind AI 鏅鸿兘鍋ヨ韩椤鹃棶</h4>
+                <p>闈㈠悜鍋ヨ韩鏂版墜锛屽皢妯＄硦鐩爣杞寲涓哄畨鍏ㄣ€佷釜鎬у寲銆佸彲鎵ц鐨?AI 鍋ヨ韩寤鸿銆?/p>
+                <strong>鍏抽敭缁撴灉锛歊AG faithfulness 鎻愬崌 36%锛岃繚瑙勮緭鍑哄噺灏?25%銆?/strong>
+                <div class="project-tags">
+                  <span>鐢ㄦ埛鐮旂┒</span><span>RAG</span><span>Agent</span><span>妯″瀷璇勪及</span>
+                </div>
+                <div class="project-actions">
+                  <a class="project-link" href="projects/fitmind-ai.html">View Details</a>
+                  <a class="project-demo-link" href="https://sherrychen086.github.io/GenAI_Fitness_Advisor/" target="_blank" rel="noreferrer">Open Demo 鈫?/a>
+                </div>
+              </article>
+              <article class="project-card">
+                <span class="project-type">GenAI Research</span>
+                <h4>GenAI 鍟嗕笟鍐崇瓥鑳藉姏璇勪及涓庢不鐞嗙爺绌?/h4>
+                <p>璇勪及 ChatGPT銆丟emini 绛夋ā鍨嬪湪鍟嗕笟鍒嗘瀽涓殑鑳藉姏杈圭晫锛屽苟璁捐浜烘満鍗忎綔娌荤悊妗嗘灦銆?/p>
+                <strong>鍏抽敭缁撴灉锛氬畬鎴?8 杞洸娴嬪疄楠岋紝鎻愬嚭涓夊眰鍐崇瓥鍒嗙被鍜屽洓灞傛不鐞嗙粨鏋勩€?/strong>
+                <div class="project-tags">
+                  <span>AI Governance</span><span>璇勪及妗嗘灦</span><span>鍟嗕笟鍐崇瓥</span><span>椋庨櫓璇嗗埆</span>
+                </div>
+                <div class="project-actions">
+                  <a class="project-link" href="projects/genai-governance.html">View Details</a>
+                  <a class="project-demo-link" href="projects/genai-governance.html">Open Demo 鈫?/a>
+                </div>
+              </article>
+              <article class="project-card">
+                <span class="project-type">Tableau Dashboard</span>
+                <h4>GE2025 Election Dashboard</h4>
+                <p>灏嗛€変妇鏁版嵁缁勭粐鎴愬彲鎺㈢储鐨勪俊鎭骇鍝侊紝甯姪鐢ㄦ埛蹇€熻瘑鍒叧閿彉閲忓拰鍙樺寲瓒嬪娍銆?/p>
+                <strong>鍏抽敭缁撴灉锛氬畬鎴愬叕寮€ Tableau 浜や簰鐪嬫澘锛屾敮鎸佺瓫閫夋帰绱笌鏁版嵁鍙欎簨銆?/strong>
+                <div class="project-tags">
+                  <span>Dashboard UX</span><span>Tableau</span><span>鏁版嵁鍙欎簨</span>
+                </div>
+                <div class="project-actions">
+                  <a class="project-link" href="projects/ge2025-dashboard.html">View Details</a>
+                  <a class="project-demo-link" href="https://public.tableau.com/app/profile/sherry.sherry3169/viz/GE2025_17600117183590/1?publish=yes" target="_blank" rel="noreferrer">Open Demo 鈫?/a>
+                </div>
+              </article>
+              <article class="project-card">
+                <span class="project-type">D3 Visualization</span>
+                <h4>Unemployment Visualization</h4>
+                <p>鐢ㄤ氦浜掑紡鍙鍖栭檷浣庣敤鎴风悊瑙ｅけ涓氭暟鎹湪鍦板尯銆佹椂闂翠笌缇や綋宸紓涓婄殑璁ょ煡鎴愭湰銆?/p>
+                <strong>鍏抽敭缁撴灉锛氬畬鎴愬彲鍦ㄧ嚎璁块棶鐨?D3 浜や簰鍙欎簨 Demo銆?/strong>
+                <div class="project-tags">
+                  <span>D3.js</span><span>淇℃伅鏋舵瀯</span><span>浜や簰璁捐</span>
+                </div>
+                <div class="project-actions">
+                  <a class="project-link" href="projects/unemployment-visualization.html">View Details</a>
+                  <a class="project-demo-link" href="https://sherrychen086.github.io/D3_Visualization_Unemployment/0_Home&amp;NVpage/NavigationPage.html" target="_blank" rel="noreferrer">Open Demo 鈫?/a>
+                </div>
+              </article>
+              <article class="project-card">
+                <span class="project-type">Data Mining</span>
+                <h4>Income Prediction</h4>
+                <p>鎺㈢储鐢ㄦ埛鐗瑰緛棰勬祴涓庡垎灞傦紝涓哄競鍦哄垎缇ゃ€佹湇鍔℃帹鑽愭垨璧勬簮閰嶇疆鎻愪緵鍐崇瓥鏀寔銆?/p>
+                <strong>鍏抽敭缁撴灉锛氬畬鎴愪粠鏁版嵁澶勭悊銆佹ā鍨嬭缁冨埌璇勪及瑙ｉ噴鐨勯娴嬮」鐩€?/strong>
+                <div class="project-tags">
+                  <span>Python</span><span>棰勬祴妯″瀷</span><span>鐢ㄦ埛鍒嗗眰</span>
+                </div>
+                <div class="project-actions">
+                  <a class="project-link" href="projects/income-prediction.html">View Details</a>
+                  <a class="project-demo-link" href="https://sherrychen086.github.io/Income_Prediction" target="_blank" rel="noreferrer">Open Demo 鈫?/a>
+                </div>
+              </article>
+              <article class="project-card">
+                <span class="project-type">Retail Analytics</span>
+                <h4>Retail Basket Intelligence</h4>
+                <p>鍒嗘瀽鍟嗗搧鍏宠仈鍏崇郴锛岃緟鍔╅浂鍞満鏅笅鐨勯檲鍒椼€佹崋缁戦攢鍞拰淇冮攢缁勫悎鍐崇瓥銆?/p>
+                <strong>鍏抽敭缁撴灉锛氬皢鍏宠仈瑙勫垯杞寲涓哄晢瀹跺彲鐞嗚В鐨勫晢鍝佺粍鍚堜笌杩愯惀寤鸿銆?/strong>
+                <div class="project-tags">
+                  <span>鍏宠仈瑙勫垯</span><span>闆跺敭娲炲療</span><span>涓氬姟绛栫暐</span>
+                </div>
+                <div class="project-actions">
+                  <a class="project-link" href="projects/retail-basket-intelligence.html">View Details</a>
+                  <a class="project-demo-link" href="https://sherrychen086.github.io/Retail_Basket_Intelligence" target="_blank" rel="noreferrer">Open Demo 鈫?/a>
+                </div>
+              </article>
+            </div>
+          </section>
+
+          <section class="case-group" aria-labelledby="company-projects-title">
+            <div class="case-group-heading">
+              <h3 id="company-projects-title">鍏徃椤圭洰</h3>
+              <span>Company Project</span>
+            </div>
+            <div class="project-card-grid three" aria-label="鍏徃椤圭洰鍗＄墖鍗犱綅">
+              <article class="project-placeholder"></article>
+              <article class="project-placeholder"></article>
+              <article class="project-placeholder"></article>
+            </div>
+          </section>
+        </div>
+      </section>
+
+      <section id="pm-fit" class="pm-fit section-shell">
+        <div class="section-heading wide">
+          <p class="eyebrow">Why I Fit AI PM</p>
+          <h2>涓嶆槸缃楀垪鑳藉姏锛岃€屾槸缁欏嚭鍙獙璇佽瘉鎹€?/h2>
+          <p>
+            鎴戞妸 AI 浜у搧缁忕悊鐨勫矖浣嶈姹傛媶鎴?5 涓瘎浼扮淮搴︼細鐪熷疄浜у搧浜や粯銆丄I 浜у搧鑳藉姏銆佹暟鎹垎鏋愯兘鍔涖€?
+            璺ㄥ洟闃熸帹杩涖€佺敤鎴蜂笌涓氬姟鎬濈淮銆傛瘡涓淮搴﹂兘瀵瑰簲鍏蜂綋瀵硅薄銆佸姩浣滃拰缁撴灉銆?
+          </p>
+        </div>
+
+        <div class="proof-grid">
+          <article class="proof-card">
+            <span>01</span>
+            <h3>鐪熷疄浜у搧浜や粯</h3>
+            <p>鍙備笌 6 涓櫤鑳藉骇鑸辫溅鍨嬮」鐩紝鐙珛涓诲濂ヨ开 Aestrix 椤圭洰浠庣珛椤瑰埌鎸夋湡 SOP銆?/p>
+          </article>
+          <article class="proof-card">
+            <span>02</span>
+            <h3>AI 浜у搧鑳藉姏</h3>
+            <p>璁捐 RAG銆丄gent銆丳rompt 绾︽潫鍜屾ā鍨嬭瘎浼版祦绋嬶紝FitMind AI 鐨?faithfulness 鎻愬崌 36%銆?/p>
+          </article>
+          <article class="proof-card">
+            <span>03</span>
+            <h3>鏁版嵁鍒嗘瀽鑳藉姏</h3>
+            <p>浣跨敤 Tableau銆丏3銆侀娴嬫ā鍨嬪拰绔炲搧娴嬭瘯鏁版嵁锛屾妸鏁版嵁杞寲涓轰骇鍝佸垽鏂緷鎹€?/p>
+          </article>
+          <article class="proof-card">
+            <span>04</span>
+            <h3>璺ㄥ洟闃熸帹杩?/h3>
+            <p>鍗忚皟 6 瀹朵緵搴斿晢鍜?8 涓唴澶栭儴鍥㈤槦锛屽榻愰渶姹傜悊瑙ｃ€佷氦浠樿竟鐣屽拰浼樺厛绾с€?/p>
+          </article>
+          <article class="proof-card">
+            <span>05</span>
+            <h3>鐢ㄦ埛涓庝笟鍔℃€濈淮</h3>
+            <p>浠庣敤鎴峰満鏅€侀渶姹傝竟鐣屻€侀獙鏀舵爣鍑嗗拰浼樺厛绾у嚭鍙戯紝璁╂柟妗堝彲楠岃瘉銆佸彲浜や粯銆佸彲杩唬銆?/p>
+          </article>
+        </div>
+      </section>
+
+      <section class="process section-shell">
+        <div class="section-heading">
+          <p class="eyebrow">Product Process</p>
+          <h2>鎴戠殑浜у搧宸ヤ綔鏂规硶</h2>
+        </div>
+        <div class="process-rail" aria-label="浜у搧娴佺▼">
+          <div><span>01</span><strong>Discover</strong><p>鐢ㄦ埛璋冪爺銆佸弽棣堝鐜般€佺珵鍝佸垎鏋愩€佷笟鍔＄洰鏍囧榻愩€?/p></div>
+          <div><span>02</span><strong>Define</strong><p>鎷嗚В鐢ㄦ埛闂銆佹槑纭渶姹傝竟鐣屻€佸畾涔変紭鍏堢骇鍜岄獙鏀舵爣鍑嗐€?/p></div>
+          <div><span>03</span><strong>Design</strong><p>璁捐鐢ㄦ埛娴佺▼銆佸師鍨嬨€丳RD銆佷氦浜掗€昏緫鍜?AI 瀹夊叏绾︽潫銆?/p></div>
+          <div><span>04</span><strong>Validate</strong><p>鐢ㄦ祴璇曠敤渚嬨€佹ā鍨嬭瘎浼般€佸疄楠屾暟鎹拰鐢ㄦ埛鍙嶉楠岃瘉鏂规銆?/p></div>
+          <div><span>05</span><strong>Iterate</strong><p>绠＄悊闇€姹傚彉鏇淬€佺増鏈?Roadmap銆佷氦浠樺鐩樺拰浜у搧鏀硅繘闂幆銆?/p></div>
+        </div>
+      </section>
+
+      <section id="skills" class="skills section-shell">
+        <div class="section-heading wide">
+          <p class="eyebrow">Skills</p>
+          <h2>鎸夊伐浣滃満鏅粍缁囪兘鍔涳紝鑰屼笉鏄爢宸ュ叿鍚嶃€?/h2>
+        </div>
+        <div class="skill-grid">
+          <article>
+            <h3>闇€姹備笌瑙勫垝</h3>
+            <p>PRD銆丷oadmap銆侀渶姹傝瘎瀹°€佷紭鍏堢骇鍒ゆ柇銆侀獙鏀舵爣鍑嗐€佺敤鎴锋祦绋嬨€乆Mind銆丣ira銆丆onfluence銆?/p>
+          </article>
+          <article>
+            <h3>AI 浜у搧璁捐</h3>
+            <p>LLM 鍩虹銆丳rompt 绾︽潫銆丷AG銆丄gent銆佹ā鍨嬭瘎浼般€丄I 椋庨櫓璇嗗埆銆佸畨鍏ㄨ竟鐣岃璁°€?/p>
+          </article>
+          <article>
+            <h3>鏁版嵁鍐崇瓥</h3>
+            <p>Python銆丒xcel銆乀ableau銆丏3銆佹寚鏍囧垎鏋愩€佺珵鍝佹祴璇曟暟鎹€侀娴嬫ā鍨嬨€佸彲瑙嗗寲鍙欎簨銆?/p>
+          </article>
+          <article>
+            <h3>鍘熷瀷涓庝氦浜?/h3>
+            <p>Figma銆丄xure銆佸ⅷ鍒€銆佷俊鎭灦鏋勩€佷氦浜掓祦绋嬨€丏emo 鍘熷瀷銆佺敤鎴蜂换鍔¤矾寰勮璁°€?/p>
+          </article>
+          <article>
+            <h3>鍗忎綔浜や粯</h3>
+            <p>渚涘簲鍟嗙鐞嗐€佽法鍥㈤槦娌熼€氥€侀渶姹傛緞娓呫€佺増鏈帹杩涖€侀闄╃鐞嗐€佸彂甯冨墠璐ㄩ噺鎶婃帶銆?/p>
+          </article>
+          <article>
+            <h3>鏁欒偛涓庤瑷€</h3>
+            <p>鍗楁磱鐞嗗伐澶у淇℃伅绯荤粺纭曞＋锛孏PA 4.5/5.0锛涘寳浜悊宸ュぇ瀛︽暟鎹瀛︽湰绉戯紱闆呮€?7.0锛孋ET-6銆?/p>
+          </article>
+        </div>
+      </section>
+
+      <section id="contact" class="contact section-shell">
+        <div>
+          <p class="eyebrow">Contact</p>
+          <h2>濡傛灉浣犳鍦ㄥ鎵炬噦 AI銆佹暟鎹拰鐪熷疄浜や粯鐨勪骇鍝佺粡鐞嗗€欓€変汉锛屾垜浠彲浠ヨ亰鑱娿€?/h2>
+          <p>鍒板矖鏃堕棿锛?026 骞?6 鏈堛€傝繖閲屼繚鐣欓偖绠便€佺數璇?寰俊鍜?PDF 绠€鍘嗗叆鍙ｏ紝鏂逛究涓嬩竴姝ユ矡閫氥€?/p>
+        </div>
+        <div class="contact-actions">
+          <a class="btn primary" href="mailto:sherrychen086@gmail.com">sherrychen086@gmail.com</a>
+          <a class="btn secondary" href="tel:+8618195888770">18195888770</a>
+          <a class="btn ghost" href="assets/chen-xiaoyu-resume.pdf" download>涓嬭浇绠€鍘?/a>
+        </div>
+      </section>
+    </main>
+
+    <div class="mobile-action-bar" aria-label="绉诲姩绔揩鎹锋搷浣?>
+      <a href="#case-studies">AI Case</a>
+      <a href="assets/chen-xiaoyu-resume.pdf" download>Resume</a>
+      <a href="mailto:sherrychen086@gmail.com">Contact</a>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

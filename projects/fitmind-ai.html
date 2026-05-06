@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FitMind AI 智能健身顾问 | 陈晓宇</title>
+    <link rel="stylesheet" href="../styles.css">
+  </head>
+  <body class="project-page">
+    <header class="site-header">
+      <a class="brand" href="../index.html#case-studies"><span class="brand-mark">XY</span><span><strong>陈晓宇</strong><small>Back to Projects</small></span></a>
+      <a class="header-cta" href="../assets/chen-xiaoyu-resume.pdf" download>Download Resume</a>
+    </header>
+    <main class="project-detail section-shell">
+      <section class="project-detail-hero">
+        <div>
+          <p class="eyebrow">GenAI Application</p>
+          <h1>FitMind AI 智能健身顾问</h1>
+          <p>面向有健身需求但缺少专业指导的用户，设计基于 Ollama + LangChain 的垂直领域 AI 健身顾问，让建议更安全、个性化、可执行。</p>
+          <div class="project-detail-actions">
+            <a class="btn primary" href="https://sherrychen086.github.io/GenAI_Fitness_Advisor/" target="_blank" rel="noreferrer">Open Demo</a>
+            <a class="btn ghost" href="../index.html#case-studies">Back to Projects</a>
+          </div>
+        </div>
+        <aside class="project-facts">
+          <div><span>Role</span><strong>用户研究 / AI 方案设计 / 评估指标</strong></div>
+          <div><span>Tools</span><strong>LangChain, RAG, Agent, RAGAS</strong></div>
+          <div><span>Result</span><strong>faithfulness +36%，违规输出 -25%</strong></div>
+        </aside>
+      </section>
+      <section class="project-detail-grid">
+        <article class="project-detail-card"><h3>用户问题</h3><p>健身新手有减脂、增肌、塑形等目标，但难以判断计划是否安全、是否适合自己、是否能持续执行。</p></article>
+        <article class="project-detail-card"><h3>我的工作</h3><p>完成 20 份用户调研问卷、社区高频问题分析，产出 5 类典型用户画像，并设计 benchmark 和 test cases 评估模型表现。</p></article>
+        <article class="project-detail-card"><h3>产品方案</h3><p>通过强约束 System Prompt、Few-shot 示例、Chroma 向量库、RAG 管道、ReAct Agent 和专业计算工具，让模型按信息检查、安全评估、可行性判断和结构化输出回答。</p></article>
+        <article class="project-detail-card"><h3>关键决策</h3><p>健身建议具有安全风险，因此优先设计安全边界、拒答机制、风险提示和自检机制，而不是只追求回答丰富度。</p></article>
+        <article class="project-detail-card wide"><h3>结果与迭代</h3><ul><li>基于 RAGAS 对检索方式进行评估，faithfulness 指标提升 36%。</li><li>基于 Constitutional AI 的 5 维量化自检，违规输出减少 25%。</li><li>下一版可增加训练计划追踪、用户反馈闭环、可解释建议和风险分级提示。</li></ul></article>
+      </section>
+    </main>
+  </body>
+</html>
