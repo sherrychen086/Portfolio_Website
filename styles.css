@@ -484,24 +484,29 @@ body[data-theme="dark"] .hero-stack p em {
   grid-column: 2;
   grid-row: 1;
   align-self: start;
+  justify-self: center;
   width: 100%;
   aspect-ratio: 4 / 3;
   height: auto;
   margin: 1.7em 0 0;
   transform: translateY(-1.2em);
   overflow: hidden;
-  border: 1px solid var(--line);
+  border: 0;
   border-radius: var(--radius);
-  background: var(--card);
-  box-shadow: var(--shadow);
+  background: transparent;
+  box-shadow: none;
 }
 
 .hero-photo-wide img {
   display: block;
-  width: 100%;
+  width: auto;
   height: 100%;
-  object-fit: cover;
-  object-position: 43% 35%;
+  max-width: 100%;
+  margin: 0 auto;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  object-fit: contain;
+  object-position: center center;
 }
 
 .profile-summary {
