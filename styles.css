@@ -1461,7 +1461,7 @@ body[data-theme="dark"] .project-card-highlight {
   display: grid;
   grid-template-columns: minmax(0, 0.68fr) minmax(280px, 0.32fr);
   gap: 24px;
-  align-items: start;
+  align-items: stretch;
 }
 
 .timeline-item.align-right {
@@ -1481,8 +1481,8 @@ body[data-theme="dark"] .project-card-highlight {
 
 .experience-image-slot {
   overflow: hidden;
-  height: clamp(260px, 24vw, 360px);
-  min-height: 0;
+  height: auto;
+  min-height: 320px;
   border: 1px dashed rgba(37, 99, 235, 0.28);
   border-radius: var(--radius);
   background:
